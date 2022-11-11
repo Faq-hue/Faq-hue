@@ -1,7 +1,7 @@
 ### Hello there
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faq-hue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faq-hue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faq-hue&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faq-hue&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Faq-hue/Faq-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
